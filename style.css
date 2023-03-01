@@ -1,0 +1,56 @@
+.priceCard {
+
+    width: 30%;
+    float: left;
+    align-items: center;
+    margin: 1%;
+}
+
+.prices {
+    align-items: center;
+    list-style: none;
+    border: 2px solid blue;
+    padding: 25px;
+    margin: 10px;
+
+}
+
+.price {
+    list-style: none;
+    font-size: 30px;
+
+}
+
+.header {
+    font-size: 25px;
+    background-color: blue;
+    text-align: center;
+}
+
+ul>li {
+    text-align: center;
+    padding: 8px;
+    font-size: 18px;
+    border-bottom: 2px solid rgb(224, 219, 219);
+}
+
+.btn {
+    background-color: blue;
+    border-radius: 7px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+.btn:hover {
+    background-color: white;
+    color: blue;
+}
+
+.btn:active {
+    background-color: white;
+    color: rgb(255, 0, 0);
+}
